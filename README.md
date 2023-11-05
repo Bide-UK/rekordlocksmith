@@ -1,6 +1,9 @@
 
 # RekordLocksmith
-![Logo](images/logo.png)
+
+<p align="right">
+  <img src="images/logo.png" width="50%" />
+</p>
 
 This tool was developed with the ethos that users should have unfettered access to their own music libraries. If you're looking to make changes to your Rekordbox library, you shouldn't have to navigate through intentionally placed barriers such as encrypted databases and obfuscated keys. 
 
