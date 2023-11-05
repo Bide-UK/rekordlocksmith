@@ -1,15 +1,4 @@
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <h1>RekordLocksmith</h1>
-      This tool was developed with the ethos that users should have unfettered access to their own music libraries. If you're looking to make changes to your Rekordbox library, you shouldn't have to navigate through intentionally placed barriers such as encrypted databases and obfuscated keys.
-    </td>
-    <td valign="top">
-      <img src="images/logo.png" width="80" /> <!-- Adjust the width as needed -->
-    </td>
-  </tr>
-</table>
-
+# RekordLocksmith
 
 This tool was developed with the ethos that users should have unfettered access to their own music libraries. If you're looking to make changes to your Rekordbox library, you shouldn't have to navigate through intentionally placed barriers such as encrypted databases and obfuscated keys. 
 
